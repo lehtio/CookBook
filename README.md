@@ -11,14 +11,13 @@ Whether you're here for inspiration, nostalgia, or just a good meal — enjoy!
 ## 📚 What You'll Find Here
 
 - Recipes from different cultures 🥘
-- Personal notes and variations ✍️
-- Photos of our dinners 📸 *(optional)*
+- Photos of our dinners 📸 *(not yet added)*
 
 ## 🏠 Made with ❤️ by:
 Our international roommate family. 
 
 ---
 
-*Bon appétit / Guten Appetit / Smacznego / Buen provecho / いただきます / ...*
+*Bon appétit / Guten Appetit / Smacznego / Buen provecho / Hyvää ruokahalua / ...*
 
 https://lehtio.github.io/BiancasCookBook/ 
