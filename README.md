@@ -1,24 +1,12 @@
-# 🌍 International Roommate Recipes
+# React + Vite
 
-Welcome! 👋
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-During my exchange, I’ve had the joy of living with **6 amazing roommates** from all around the world. One thing we all share is a love for food and cooking. 🍽️
+Currently, two official plugins are available:
 
-We often cook together, host dinners, and share recipes from our home countries. This repository is a collection of those **memorable meals and beloved recipes** — a flavorful memory of our exchange house.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Whether you're here for inspiration, nostalgia, or just a good meal — enjoy!
+## Expanding the ESLint configuration
 
-## 📚 What You'll Find Here
-
-- Recipes from different cultures 🥘
-- Personal notes and variations ✍️
-- Photos of our dinners 📸 *(optional)*
-
-## 🏠 Made with ❤️ by:
-Our international roommate family. 
-
----
-
-*Bon appétit / Guten Appetit / Smacznego / Buen provecho / いただきます / ...*
-
-https://lehtio.github.io/BiancasCookBook/ 
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
