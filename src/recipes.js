@@ -87,15 +87,15 @@ const recipes = [
   image: cottagepie, 
   tag: "Izzy",
   ingredients: [
-    "800 g Ground beef",
+    "800g Ground beef",
     "1 Onion",
     "2 Carrots",
     "2 cloves Garlic",
-    "2 tbsp Tomato paste",
-    "200 ml Beef stock",
-    "800 g Potatoes",
-    "50 g Butter",
-    "100 ml Milk"
+    "2tbsp Tomato paste",
+    "200ml Beef stock",
+    "800g Potatoes",
+    "50g Butter",
+    "100ml Milk"
   ],
 instructions: `Boil and mash the potatoes with butter and milk. Cook onion, carrots, and garlic in a pan. Add ground beef, tomato paste, thyme, and beef stock. Let simmer. Layer meat in a baking dish, top with potatoes. Bake at 200°C  for 20min.`
 }
