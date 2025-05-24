@@ -3,6 +3,8 @@ import fennelSalad from './assets/fennelSalad.png';
 import tunaPizza from './assets/tunaPizza.png';
 import amPasta from './assets/3amPasta.png';
 import couscous from './assets/couscous.png';
+import cottagepie from './assets/cottagepie.png';
+
 
 
 const recipes = [
@@ -77,7 +79,27 @@ const recipes = [
 
     ],
     instructions: `Prepare the couscous according to the package instructions. Chop the onion, feta, and other vegetables, and mix them in a bowl. Once the couscous is ready, add it to the bowl and combine everything well. Drizzle with a little olive oil and lemon juice.`
-  }
+  },
+  {
+  id: 'cottage-pie',
+  title: "Cottage Pie",
+  servings: "For 6",
+  image: cottagepie, 
+  tag: "Izzy",
+  ingredients: [
+    "800 g Ground beef",
+    "1 Onion",
+    "2 Carrots",
+    "2 cloves Garlic",
+    "2 tbsp Tomato paste",
+    "200 ml Beef stock",
+    "800 g Potatoes",
+    "50 g Butter",
+    "100 ml Milk"
+  ],
+instructions: `Boil and mash the potatoes with butter and milk. Cook onion, carrots, and garlic in a pan. Add ground beef, tomato paste, thyme, and beef stock. Let simmer. Layer meat in a baking dish, top with potatoes. Bake at 200°C  for 20min.`
+}
+
 ];
 
 export default recipes;
