@@ -73,7 +73,7 @@ const App = () => {
 
       <div className="content">
         <header className="top-header">
-          <h1>B's Cookbook</h1>
+          <h1>B's testattu Cookbook</h1>
         </header>
 
         <main className="book-open">
