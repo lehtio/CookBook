@@ -4,6 +4,11 @@ import tunaPizza from './assets/tunaPizza.png';
 import amPasta from './assets/3amPasta.png';
 import couscous from './assets/couscous.png';
 import cottagepie from './assets/cottagepie.png';
+import risotto from './assets/risotto.png';
+import pumpkinRisotto from './assets/pumpkinRisotto.png';
+import mushroomPasta from './assets/mushroomPasta.png';
+
+
 
 
 
@@ -23,6 +28,41 @@ const recipes = [
     ],
     instructions: `Chop the onion and sauté it in olive oil until translucent. Add finely chopped carrots and peas to the pan and cook until tender. Transfer to a blender and blend into a creamy sauce. Add water if needed. Cook the pasta. Mix the sauce with the pasta, and add salt & pepper.`
   },
+  {
+  id: 'pumpkin-risotto',
+  title: "Pumpkin Risotto",
+  servings: "For 4",
+  image: pumpkinRisotto,
+  tag: "bianca",
+  ingredients: [
+    "1 pumpkin",
+    "1/2 onion",
+    "Olive oil",
+    "Vegetable broth",
+    "Salt",
+    "Pepper"
+  ],
+  instructions: `Sauté the onion in olive oil. Add the pumpkin and cook until it becomes soft and mushy. Add the rice and pour in enough broth to cover it. Continue adding broth as it absorbs, until the rice is fully cooked. Season with salt and pepper to taste.`
+},
+
+{
+  id: 'mushroom-pasta',
+  title: "Mushroom Pasta",
+  servings: "For 4",
+  image: mushroomPasta,
+  tag: "bianca",
+  ingredients: [
+    "Mushrooms",
+    "Heavy cream",
+    "Pasta",
+    "Garlic",
+    "Olive oil",
+    "Parsley"
+  ],
+  instructions: `Sauté the garlic and mushrooms in olive oil. Add the heavy cream and let it simmer. Boil the pasta according to the package instructions, then mix it with the mushroom sauce. Season with salt, pepper, and garnish with chopped parsley.`
+}
+
+,
   {
     id: 'fennel-salad',
     title: "Fennel Salad",
@@ -98,7 +138,23 @@ const recipes = [
     "100ml Milk"
   ],
 instructions: `Boil and mash the potatoes with butter and milk. Cook onion, carrots, and garlic in a pan. Add ground beef, tomato paste, thyme, and beef stock. Let simmer. Layer meat in a baking dish, top with potatoes. Bake at 200°C  for 20min.`
-}
+},
+  {
+    id: 'mushroom-risotto',
+    title: "Mushroom risotto",
+    servings: "For 4 ",
+    image: risotto,
+    tag: "bianca",
+    ingredients: [
+      "1 can of mushrooms",
+      "risotto rice",
+      "3 tbsp Olive oil",
+      "2 tbsp Honey",
+      "Salt",
+      "Pepper"
+    ],
+  instructions: `Sauté the onion in olive oil. Add the mushrooms and cook until it becomes soft and mushy. Add the rice and pour in enough broth to cover it. Continue adding broth as it absorbs, until the rice is fully cooked. Season with salt and pepper to taste.`
+  },
 
 ];
 
