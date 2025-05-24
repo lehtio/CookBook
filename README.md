@@ -20,4 +20,4 @@ Our international roommate family.
 
 *Bon appétit / Guten Appetit / Smacznego / Buen provecho / Hyvää ruokahalua / ...*
 
-https://lehtio.github.io/BiancasCookBook/ 
+https://lehtio.github.io/CookBook/ 
