@@ -7,6 +7,8 @@ import cottagepie from './assets/cottagepie.png';
 import risotto from './assets/risotto.png';
 import pumpkinRisotto from './assets/pumpkinRisotto.png';
 import mushroomPasta from './assets/mushroomPasta.png';
+import pancake from './assets/pancake.png';
+import hernari from './assets/hernari.png';
 
 
 
@@ -154,7 +156,41 @@ instructions: `Boil and mash the potatoes with butter and milk. Cook onion, carr
       "Pepper"
     ],
   instructions: `Sauté the onion in olive oil. Add the mushrooms and cook until it becomes soft and mushy. Add the rice and pour in enough broth to cover it. Continue adding broth as it absorbs, until the rice is fully cooked. Season with salt and pepper to taste.`
-  },
+  }, {
+  id: 'pancakes',
+  title: "Finnish Pancakes",
+  servings: "For 8",
+  image: pancake, 
+  tag: "laura",
+  ingredients: [
+    "1 liter milk",
+    "5 dl wheat flour",
+    "4 eggs",
+    "1/2 dl sugar",
+    "1 tsp salt",
+    "50 g butter",
+    "1/2 tsp vanilla sugar"
+  ],
+  instructions: `Mix the milk, flour, eggs, sugar, vanilla sugar, and salt together. Melt the butter and add it to the mixture. Let it rest for 30min. Grease a baking paper and pour the batter onto it in a baking dish. Bake at 200°C for 30–45 minutes / until the pancake is golden brown.`
+},
+
+ {
+  id: 'peasoup',
+  title: "Finnish Pea Soup",
+  servings: "Serves 7",
+  image: hernari,
+  tag: "onni",
+  ingredients: [
+    "500 g dried peas",
+    "2.5 liters water",
+    "2 onions",
+    "2 vegetable stock cubes",
+    "Salt & pepper (to taste)"
+  ],
+  instructions: `Rinse the peas and soak them in water overnight. Boil them in the soaking water. Add chopped onions and stock cubes. Simmer gently for 3 hours, stirring occasionally. Season with salt and pepper. Add water if the soup is too thick. Simmer briefly and check seasoning before serving.`
+}
+
+
 
 ];
 
