@@ -10,7 +10,7 @@ import mushroomPasta from './assets/mushroomPasta.png';
 import pancake from './assets/pancake.png';
 import hernari from './assets/hernari.png';
 import girldinner from './assets/girldinner.png';
-
+import pizza from './assets/pizza.png';
 
 
 
@@ -207,7 +207,24 @@ instructions: `Boil and mash the potatoes with butter and milk. Cook onion, carr
     "500 g Greek yogurt"
   ],
   instructions: `Prepare the fries. Make tzatziki by grating the cucumber and mixing it with Greek yogurt. Prepare guacamole by mashing the avocados with olive oil and salt. Open the nacho bags.`
+},
+
+ {
+  id: 'mozzarellapizza',
+  title: "Mozzarella Pizza",
+  servings: "Serves 8",
+  image: pizza,
+  tag: "bianca",
+  ingredients: [
+    "2 cans of tomato sauce",
+    "Olive oil",
+    "Salt, sugar & pepper (and other seasonings)",
+    "1 kg mozzarella",
+    "4 pizza doughs (from fridge)"
+  ],
+  instructions: `Pour the tomato sauce into a pan over low heat, add plenty of olive oil and let it simmer. Add salt and sugar. Spread the sauce over the pizza bases and bake for 6 minutes at 200°C. Add grated mozzarella and bake for another 4 minutes. Cut into squares and serve.`
 }
+
 
 
 
