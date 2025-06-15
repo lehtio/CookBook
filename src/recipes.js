@@ -9,6 +9,8 @@ import pumpkinRisotto from './assets/pumpkinRisotto.png';
 import mushroomPasta from './assets/mushroomPasta.png';
 import pancake from './assets/pancake.png';
 import hernari from './assets/hernari.png';
+import girldinner from './assets/girldinner.png';
+
 
 
 
@@ -188,6 +190,23 @@ instructions: `Boil and mash the potatoes with butter and milk. Cook onion, carr
     "Salt & pepper (to taste)"
   ],
   instructions: `Rinse the peas and soak them in water overnight. Boil them in the soaking water. Add chopped onions and stock cubes. Simmer gently for 3 hours, stirring occasionally. Season with salt and pepper. Add water if the soup is too thick. Simmer briefly and check seasoning before serving.`
+},
+
+ {
+  id: 'girldinner',
+  title: "Girl Dinner",
+  servings: "Serves 4",
+  image: girldinner,
+  tag: "bianca",
+  ingredients: [
+    "2 packs of nachos",
+    "2 avocados",
+    "1 cucumber",
+    "1 kg frozen fries",
+    "Salt & pepper (and other seasonings)",
+    "500 g Greek yogurt"
+  ],
+  instructions: `Prepare the fries. Make tzatziki by grating the cucumber and mixing it with Greek yogurt. Prepare guacamole by mashing the avocados with olive oil and salt. Open the nacho bags.`
 }
 
 
